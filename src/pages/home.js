@@ -27,6 +27,11 @@ class home extends Component {
         </Grid>
         <Grid item sm={4} xs={12}>
           <Profile />
+        <hr />
+          <div>
+            <iframe title="uniqueTitleYeet" width="389.33" height="400" src="https://bwfbadminton.com" frameBorder="0" 
+            allow="encrypted-media" allowFullScreen />
+          </div>
         </Grid>
       </Grid>
     );
