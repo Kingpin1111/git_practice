@@ -1,3 +1,7 @@
 ## 1: API Base URL
 
-Add https://europe-west1-socialape-d081e.cloudfunctions.net/api as the 'proxy' value in package.json
+build instructions:
+
+- 'npm start' for local serving
+- 'npm run build' for build files
+- 'firebase deploy' for deploying to host
