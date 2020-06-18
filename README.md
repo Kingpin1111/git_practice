@@ -2,7 +2,10 @@ Badminton Social is a full-stack Web app giving badminton players a platform to 
 
 ## How it works?
 The workflow is similar to a social media website (think Twitter or Facebook!!). The user is prompted to create an account, and upon that can now connect with users to post/comment/like messages(screams), add friends, and customize their profile for other badminton fanatics to view.
+It looks like this: 
+<img src="Sample Application look.png" alt="Sample Sketch" width="750" />
 
+You can find more here: http://badminton-social.firebaseapp.com/
 ## What did I learn?
 Creating this project provided me with strong fundamental knowledge of software development in each area of a web application, examples include managing the user's state from the client-side in real-time using React-Redux, using promise-based HTTP requests on both front-end and backend to persist data properly, and creating REST API functions using Firebase Functions to directly manage user-inputted data to the database.
 
